@@ -6,6 +6,6 @@ eureka:
 ---
 spring:
   profiles: lab-4-sentence
-  server:
-    port: 8030  
+server:
+  port: 8030  
     words: NotApplicable
