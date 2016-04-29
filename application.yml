@@ -5,6 +5,6 @@ eureka:
       defaultZone: http://localhost:8010/eureka/
 ---
 spring:
-  profiles: lab-4-sentence
+  profiles: sentence
 server:
   port: 8030  
